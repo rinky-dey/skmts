@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20972" started-at="2020-03-09T15:43:13 IST" finished-at="2020-03-09T15:43:34 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20972" started-at="2020-03-09T15:43:13 IST" finished-at="2020-03-09T15:43:34 IST">
+      <class name="skmts.testcases.RegistrationTest">
+        <test-method status="PASS" signature="setData(java.lang.String)[pri:0, instance:skmts.testcases.RegistrationTest@4bbfb90a]" name="setData" is-config="true" duration-ms="40" started-at="2020-03-09T15:43:13 IST" finished-at="2020-03-09T15:43:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://demo.guru99.com/selenium/newtours/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:skmts.testcases.RegistrationTest@4bbfb90a]" name="setUp" is-config="true" duration-ms="13372" started-at="2020-03-09T15:43:15 IST" finished-at="2020-03-09T15:43:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="registerUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:skmts.testcases.RegistrationTest@4bbfb90a]" name="registerUser" duration-ms="6308" started-at="2020-03-09T15:43:28 IST" data-provider="fetchData" finished-at="2020-03-09T15:43:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[User]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9800098674]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Lnt Infotech]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Tamil Nadu]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[600089]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Sel_Oct]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[testuser]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[testuser]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Thank you for registering. You may now sign-in using the user name and password you've just entered.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:skmts.testcases.RegistrationTest@4bbfb90a]" name="tearDown" is-config="true" duration-ms="116" started-at="2020-03-09T15:43:34 IST" finished-at="2020-03-09T15:43:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- skmts.testcases.RegistrationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite name="Suite of suites" duration-ms="0" started-at="2020-03-09T15:43:35 IST" finished-at="2020-03-09T15:43:35 IST">
+    <groups>
+    </groups>
+  </suite> <!-- Suite of suites -->
+</testng-results>
